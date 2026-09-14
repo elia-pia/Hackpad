@@ -13,7 +13,3 @@ A 3-key macropad, built for Hack Club's Stardance Challenge.
 2. Order the PCB from your fab of choice using the KiCad project files.
 3. 3D print `enclosure.stl` and `case_lid.stl`.
 4. Assemble the PCB into the printed case.
-## Status
- 
-Work in progress for Stardance — hardware design is here, firmware/wiring instructions coming soon.
- 
