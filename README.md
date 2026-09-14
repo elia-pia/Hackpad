@@ -1,7 +1,13 @@
 # Hackpad
  
 A 3-key macropad, built for Hack Club's Stardance Challenge.
+
+## Gallery
  
+| PCB | Final CAD |
+| --- | --- |
+| ![Hackpad PCB](assets/hackpad_pcb.png) | ![Hackpad case](assets/hackpad_case2.png) |
+
 ## What's in this repo
  
 - `hackpad.kicad_pro`, `hackpad.kicad_sch`, `hackpad.kicad_pcb` — KiCad project, schematic, and PCB layout
