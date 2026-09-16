@@ -19,3 +19,5 @@ A 3-key macropad, built for Hack Club's Stardance Challenge.
 2. Order the PCB from JLCPCB of choice using the KiCad project files.
 3. 3D print `enclosure.stl` and `case_lid.stl`.
 4. Assemble the PCB into the printed case.
+
+also thanks to @harmanD on stardance
