@@ -42,7 +42,7 @@ my Hackpad is a tiny 3-switch macro keyboard made of three Cherry MX–compatibl
  
 ![Assembly diagram](assets/assembly_diagram.svg)
  
-The PCB (switches + XIAO) drops into the case, with the three switches poking up through the matching cutouts in the lid. The lid then closes over the top with two screws.
+The PCB will fit into the case, with the three switches poking up through the matching cutouts in the lid. The lid then closes over the top with two screws.
  
 ## Bill of materials
  
@@ -60,10 +60,10 @@ The PCB (switches + XIAO) drops into the case, with the three switches poking up
 ## What's in this repo
  
 - `pcb/` — KiCad project, schematic, and PCB layout
-- `cad/` — STEP files for the enclosure and lid, if you want to edit the case
-- `production/` — ready-to-use files: STLs for printing, gerbers for fab, and a pre-built firmware `.uf2`
+- `cad/` — STEP files for the enclosure and lid
+- `production/` — ready-to-use files: STLs for printing, gerbers for pcb, and a pre-compiled firmware `.uf2`
 - `firmware/` — QMK firmware source and keymap
-- `assets/` — renders and diagrams used in this README
+- `assets/` — fotos and diagrams used in this README
 ## Building it
  
 1. **Get the PCB made** — send `production/gerbers.zip` to a fab, or open `pcb/hackpad.kicad_pro` in [KiCad](https://www.kicad.org/) if you want to modify the design first.
