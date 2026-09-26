@@ -1,3 +1,9 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"SW1, SW2, SW3";"SW_Cherry_MX_1.00u_PCB";3;"SW_Push";;;
-2;"U1";"XIAO-Generic-Hybrid-14P-2.54-21X17.8MM";1;"MOUDLE-SEEEDUINO-XIAO";;;
+Qty,Component,Reference,Notes
+1,Seeed Studio XIAO RP2040,U1,"Microcontroller; footprint XIAO-Generic-Hybrid-14P-2.54-21X17.8MM"
+3,Cherry MX-compatible switch,"SW1, SW2, SW3","Footprint Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+1,Custom PCB,,Fabricate from production/gerbers.zip
+1,3D-printed enclosure,,production/enclosure.stl
+1,3D-printed lid,,production/case_lid.stl
+4,Mounting screw,,"Size not specified in project files; match to the case's screw posts"
+3,Keycap (optional),,Any Cherry MX-compatible keycap fits
+1,USB-C cable,,To flash firmware and connect the finished pad to a computer
